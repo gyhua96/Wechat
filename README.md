@@ -6,6 +6,6 @@
     
 ###    2017-10-5更新：
     已经完成了基本聊天功能，包括登录，自动检测在线用户，自动侦测新上线用户，发送消息，接收消息，状态更新（在线，来信，离线）。
-<img src="/ueditor/php/upload/image/20171005/1507173667974542.png" title="1507173667974542.png" alt="image.png" width="214" height="250" style="width: 214px; height: 250px;">
+<img src="http://www.gongyuhua.cn/ueditor/php/upload/image/20171005/1507173785295096.png" title="1507173667974542.png" alt="image.png" width="214" height="250" style="width: 214px; height: 250px;">
 
-<img src="/ueditor/php/upload/image/20171005/1507173785295096.png" title="1507173785295096.png" alt="image.png" width="600" height="400" style="width: 600px; height: 400px;">
+<img src="http://www.gongyuhua.cn/ueditor/php/upload/image/20171005/1507174028622824.png" title="1507173785295096.png" alt="image.png" width="600" height="400" style="width: 600px; height: 400px;">
